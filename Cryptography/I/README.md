@@ -9,7 +9,7 @@
 - [X] [Video 01 - Week One: Course Overview](Videos/Video 01/README.md)
 - [X] [Video 02 - Week One: What is Cryptography](Videos/Video 02/README.md)
 - [X] [Video 03 - Week One: History of Cryptography](Videos/Video 03/README.md)
-- [ ] [Video 04 - Week One: Discrete Probability (Crash Course)](Videos/Video 04/README.md)
+- [X] [Video 04 - Week One: Discrete Probability (Crash Course)](Videos/Video 04/README.md)
 - [ ] [Video 05 - Week One: Discrete Probability (Crash Course Continued)](Videos/Video 05/README.md)
 - [ ] [Video 06 - Week One: Information Theoretic Security and The One Time Pad](Videos/Video 06/README.md)
 - [ ] [Video 07 - Week One: Stream Ciphers and Pseudo Random Generators](Videos/Video 07/README.md)
