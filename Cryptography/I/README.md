@@ -1,5 +1,5 @@
 # Coursera: Cryptography I
-![Coursera Banner](../Images/coursera.png)
+![Coursera Banner](../../Images/coursera.png)
 ##### Instructor: Dan Boneh
 ##### Course URL: [Coursera](https://www.coursera.org/learn/crypto)
 ##### Release Date: 2016
