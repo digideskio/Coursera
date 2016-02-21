@@ -7,7 +7,7 @@
 ## Progress
 
 - [X] [Video 01 - Week One: Course Overview](Videos/Video 01/README.md)
-- [ ] [Video 02 - Week One: What is Cryptography](Videos/Video 02/README.md)
+- [X] [Video 02 - Week One: What is Cryptography](Videos/Video 02/README.md)
 - [ ] [Video 03 - Week One: History of Cryptography](Videos/Video 03/README.md)
 - [ ] [Video 04 - Week One: Discrete Probability (Crash Course)](Videos/Video 04/README.md)
 - [ ] [Video 05 - Week One: Discrete Probability (Crash Course Continued)](Videos/Video 05/README.md)
