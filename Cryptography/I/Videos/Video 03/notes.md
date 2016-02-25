@@ -5,7 +5,8 @@
 - **History of Crypto**
   - Recommended book: 'The code breakers' by David Kahn (1996)
 
-- Broken Ciphers
+
+- **Broken Ciphers**
   - Substitution cipher
     - One letter mapped to another
     - 26! different keys possible if using 26 letters

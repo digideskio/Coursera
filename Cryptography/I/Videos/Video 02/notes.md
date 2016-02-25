@@ -22,6 +22,7 @@
       - Bob knows ```N```, not ```pq```
       - Alice can prove to bob she knows ```pq``` without learning ```pq```
 
+
 - **A Rigorous Science**
   -Three steps in crypto:
     - Precisely specify threat model
